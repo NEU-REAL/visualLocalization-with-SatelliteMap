@@ -4,4 +4,4 @@ Localization Like Human: Visual Localization with Offline Google Map-assisted fo
 
 
 
-We will publish code here when it's tidied up and ready.
+We will publish code here when it's tidied up and ready. Thank you very much for your attention.
